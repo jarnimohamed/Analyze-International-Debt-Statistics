@@ -3,7 +3,7 @@ Writing SQL queries to answer interesting questions about international debt usi
 
 In this project, i'm going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories as recorded from 1970 to 2015.
 
-#Project tasks
+# Project tasks
 1. The World Bank's international debt data
 2. Finding the number of distinct countries
 3. Finding out the distinct debt indicators
